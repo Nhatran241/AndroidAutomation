@@ -59,7 +59,6 @@ public class ForceStopClearChromeDataScript extends BaseScript {
         actions.add(clickManageSpace);
         actions.add(clickClearAll);
         actions.add(clickOkClear);
-        actions.add(openChrome);
         return actions;
     }
 }
